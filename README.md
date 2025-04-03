@@ -13,7 +13,7 @@ This project analyzes employee data to understand key HR metrics, with a particu
 
 ## Tools Used
 
-* **Microsoft Power BI:** Used for data modeling, analysis (DAX measures where applicable), visualization, and dashboard creation. **The dashboard styling utilizes a color scheme inspired by the Valmet company layout/colors**
+* **Microsoft Power BI:** Used for data modeling, analysis (DAX measures where applicable), visualization, and dashboard creation. **The dashboard styling utilizes a color scheme inspired by the Valmet company layout/colors.**
 
 ## Analysis & Visualizations
 
