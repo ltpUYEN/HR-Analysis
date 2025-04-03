@@ -8,7 +8,7 @@ This project analyzes employee data to understand key HR metrics, with a particu
 
 * **Dataset:** HR Analytics Employee Attrition & Performance
 * **Source:** Kaggle
-* **Link:** https://www.kaggle.com/datasets/vjchoudhary7/hr-analytics-case-study
+* **Link:** [https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset]
 * **Description:** A fictional dataset containing information on 1470 employees, including demographics, job roles, satisfaction levels, performance ratings, and attrition status. The data was imported directly into Power BI for analysis.
 
 ## Tools Used
